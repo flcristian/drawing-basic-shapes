@@ -1,0 +1,12 @@
+# ninja log v5
+4	130	7292872666807143	build.ninja	d6c509bc3ff0d3ec
+15	672	7292872659392595	CMakeFiles/drawing_triangle_fan.dir/main.cpp.obj	9e48bba8898f4bec
+673	860	7292872661154182	drawing_triangle_fan.exe	f9ce10781a20476
+2	651	7292873680418719	CMakeFiles/drawing_triangle_fan.dir/main.cpp.obj	9e48bba8898f4bec
+652	738	7292873681103488	drawing_triangle_fan.exe	f9ce10781a20476
+5	658	7292874071314862	CMakeFiles/drawing_triangle_fan.dir/main.cpp.obj	9e48bba8898f4bec
+658	741	7292874071954616	drawing_triangle_fan.exe	f9ce10781a20476
+6	694	7292874515865175	CMakeFiles/drawing_triangle_fan.dir/main.cpp.obj	9e48bba8898f4bec
+694	776	7292874516516232	drawing_triangle_fan.exe	f9ce10781a20476
+6	668	7292875024413139	CMakeFiles/drawing_triangle_fan.dir/main.cpp.obj	9e48bba8898f4bec
+669	769	7292875025180013	drawing_triangle_fan.exe	f9ce10781a20476

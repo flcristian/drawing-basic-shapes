@@ -1,0 +1,9 @@
+# ninja log v5
+1	652	7292868518590318	CMakeFiles/drawing_polygon.dir/main.cpp.obj	bac2137d1995c64c
+653	844	7292868520400741	drawing_polygon.exe	208d940ee7acdd89
+2	665	7292869500941245	CMakeFiles/drawing_polygon.dir/main.cpp.obj	bac2137d1995c64c
+665	774	7292869501834884	drawing_polygon.exe	208d940ee7acdd89
+5	655	7292869904528106	CMakeFiles/drawing_polygon.dir/main.cpp.obj	bac2137d1995c64c
+655	740	7292869905200116	drawing_polygon.exe	208d940ee7acdd89
+5	529	7292869975278857	CMakeFiles/drawing_polygon.dir/main.cpp.obj	bac2137d1995c64c
+530	610	7292869975910910	drawing_polygon.exe	208d940ee7acdd89

@@ -1,0 +1,18 @@
+# ninja log v5
+3	127	7292848602206659	build.ninja	35dfc4ddbd58ee45
+15	662	7292848492081483	CMakeFiles/drawing_point.dir/main.cpp.obj	fb57a9b85d463fa6
+663	846	7292848493810556	drawing_point.exe	a4b03b22c85bb3ce
+3	655	7292850035463222	CMakeFiles/drawing_point.dir/main.cpp.obj	fb57a9b85d463fa6
+656	742	7292850036155020	drawing_point.exe	a4b03b22c85bb3ce
+6	551	7292850126818084	CMakeFiles/drawing_point.dir/main.cpp.obj	fb57a9b85d463fa6
+551	629	7292850127452641	drawing_point.exe	a4b03b22c85bb3ce
+2	646	7292851087322351	CMakeFiles/drawing_point.dir/main.cpp.obj	fb57a9b85d463fa6
+646	730	7292851087984103	drawing_point.exe	a4b03b22c85bb3ce
+6	538	7292851206256095	CMakeFiles/drawing_point.dir/main.cpp.obj	fb57a9b85d463fa6
+538	621	7292851206904839	drawing_point.exe	a4b03b22c85bb3ce
+5	658	7292851850645822	CMakeFiles/drawing_point.dir/main.cpp.obj	fb57a9b85d463fa6
+658	740	7292851851286373	drawing_point.exe	a4b03b22c85bb3ce
+6	651	7292852154435214	CMakeFiles/drawing_point.dir/main.cpp.obj	fb57a9b85d463fa6
+651	734	7292852155096342	drawing_point.exe	a4b03b22c85bb3ce
+5	655	7292852809071748	CMakeFiles/drawing_point.dir/main.cpp.obj	fb57a9b85d463fa6
+655	739	7292852809725140	drawing_point.exe	a4b03b22c85bb3ce

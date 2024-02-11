@@ -1,0 +1,13 @@
+# ninja log v5
+1	531	7292864178021047	CMakeFiles/drawing_line_strip_and_loop.dir/main.cpp.obj	91ec9c7e874672fd
+532	706	7292864179671054	drawing_line_strip_and_loop.exe	f5b2644d1621953f
+2	650	7292865401071096	CMakeFiles/drawing_line_strip_and_loop.dir/main.cpp.obj	91ec9c7e874672fd
+651	738	7292865401729646	drawing_line_strip_and_loop.exe	f5b2644d1621953f
+2	657	7292866223837701	CMakeFiles/drawing_line_strip_and_loop.dir/main.cpp.obj	91ec9c7e874672fd
+658	743	7292866224511968	drawing_line_strip_and_loop.exe	f5b2644d1621953f
+2	534	7292866512928784	CMakeFiles/drawing_line_strip_and_loop.dir/main.cpp.obj	91ec9c7e874672fd
+535	616	7292866513577461	drawing_line_strip_and_loop.exe	f5b2644d1621953f
+2	660	7292867045747347	CMakeFiles/drawing_line_strip_and_loop.dir/main.cpp.obj	91ec9c7e874672fd
+661	745	7292867046427872	drawing_line_strip_and_loop.exe	f5b2644d1621953f
+2	526	7292867107012790	CMakeFiles/drawing_line_strip_and_loop.dir/main.cpp.obj	91ec9c7e874672fd
+526	605	7292867107647896	drawing_line_strip_and_loop.exe	f5b2644d1621953f

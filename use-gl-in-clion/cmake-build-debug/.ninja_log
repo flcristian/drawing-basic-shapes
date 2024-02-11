@@ -1,0 +1,26 @@
+# ninja log v5
+6	227	7292795106008981	build.ninja	fc572256300073c3
+5	452	7292793913295277	CMakeFiles/use_gl_in_clion.dir/main.cpp.obj	b076e282ac914cd7
+13	91	7292794584334175	use_gl_in_clion.exe	4eae8d83486a65d7
+5	446	7292802186991670	CMakeFiles/use_gl_in_clion.dir/main.cpp.obj	b076e282ac914cd7
+447	523	7292802187737865	use_gl_in_clion.exe	4eae8d83486a65d7
+4	108	7292802707607746	CMakeFiles/use_gl_in_clion.dir/main.cpp.obj	b076e282ac914cd7
+108	180	7292802708313699	use_gl_in_clion.exe	4eae8d83486a65d7
+8	458	7292802778790284	CMakeFiles/use_gl_in_clion.dir/main.cpp.obj	b076e282ac914cd7
+459	535	7292802779545339	use_gl_in_clion.exe	4eae8d83486a65d7
+9	439	7292802855760080	CMakeFiles/use_gl_in_clion.dir/main.cpp.obj	b076e282ac914cd7
+440	511	7292802856470082	use_gl_in_clion.exe	4eae8d83486a65d7
+9	441	7292803045937812	CMakeFiles/use_gl_in_clion.dir/main.cpp.obj	b076e282ac914cd7
+441	514	7292803046666370	use_gl_in_clion.exe	4eae8d83486a65d7
+9	439	7292803198144470	CMakeFiles/use_gl_in_clion.dir/main.cpp.obj	b076e282ac914cd7
+440	512	7292803198851527	use_gl_in_clion.exe	4eae8d83486a65d7
+9	444	7292803510446968	CMakeFiles/use_gl_in_clion.dir/main.cpp.obj	b076e282ac914cd7
+444	515	7292803511142341	use_gl_in_clion.exe	4eae8d83486a65d7
+9	453	7292803845176963	CMakeFiles/use_gl_in_clion.dir/main.cpp.obj	b076e282ac914cd7
+453	523	7292803845872001	use_gl_in_clion.exe	4eae8d83486a65d7
+9	442	7292804017674175	CMakeFiles/use_gl_in_clion.dir/main.cpp.obj	b076e282ac914cd7
+442	512	7292804018362072	use_gl_in_clion.exe	4eae8d83486a65d7
+5	450	7292821815920044	CMakeFiles/use_gl_in_clion.dir/main.cpp.obj	b076e282ac914cd7
+450	525	7292821816667907	use_gl_in_clion.exe	4eae8d83486a65d7
+5	446	7292825201650039	CMakeFiles/use_gl_in_clion.dir/main.cpp.obj	b076e282ac914cd7
+447	521	7292825202375775	use_gl_in_clion.exe	4eae8d83486a65d7

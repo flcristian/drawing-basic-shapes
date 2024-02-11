@@ -1,0 +1,3 @@
+D:/mycode/opengl/draw-triangle-strip/cmake-build-debug/CMakeFiles/drawing_triangle_strip.dir
+D:/mycode/opengl/draw-triangle-strip/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/mycode/opengl/draw-triangle-strip/cmake-build-debug/CMakeFiles/rebuild_cache.dir

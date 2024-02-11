@@ -1,0 +1,16 @@
+# ninja log v5
+4	436	7292833318905123	CMakeFiles/drawing_quad.dir/main.cpp.obj	70a4089e90abf160
+45	113	7292830660389670	drawing_quad.exe	73a1ac8c3375d66a
+1	7	0	clean	a3dba586364da5db
+7	696	7292841480664001	CMakeFiles/drawing_quad.dir/main.cpp.obj	a333b14c1cb5fb8e
+697	888	7292841482474879	drawing_quad.exe	1da6e5c08ea5817d
+10	679	7292842408975901	CMakeFiles/drawing_quad.dir/main.cpp.obj	a333b14c1cb5fb8e
+679	783	7292842409797317	drawing_quad.exe	1da6e5c08ea5817d
+8	657	7292844829506302	CMakeFiles/drawing_quad.dir/main.cpp.obj	a333b14c1cb5fb8e
+658	755	7292844830273403	drawing_quad.exe	1da6e5c08ea5817d
+9	661	7292845502759929	CMakeFiles/drawing_quad.dir/main.cpp.obj	a333b14c1cb5fb8e
+662	784	7292845503749378	drawing_quad.exe	1da6e5c08ea5817d
+10	666	7292846027544034	CMakeFiles/drawing_quad.dir/main.cpp.obj	a333b14c1cb5fb8e
+666	757	7292846028269017	drawing_quad.exe	1da6e5c08ea5817d
+9	664	7292847006753577	CMakeFiles/drawing_quad.dir/main.cpp.obj	a333b14c1cb5fb8e
+665	757	7292847007490309	drawing_quad.exe	1da6e5c08ea5817d

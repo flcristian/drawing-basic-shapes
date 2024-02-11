@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "D:/mycode/opengl/drawing-line-strip-and-loop/cmake-build-debug/CMakeFiles/drawing_line_strip_and_loop.dir/embed.manifest"

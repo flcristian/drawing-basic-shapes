@@ -1,0 +1,7 @@
+# ninja log v5
+1	8	0	clean	a3dba586364da5db
+2	7	0	clean	a3dba586364da5db
+2	660	7292871211311904	CMakeFiles/drawing_triangle_strip.dir/main.cpp.obj	907982657508e2fb
+660	841	7292871213022729	drawing_triangle_strip.exe	645271130752c17e
+1	669	7292871395096581	CMakeFiles/drawing_triangle_strip.dir/main.cpp.obj	907982657508e2fb
+670	757	7292871395788135	drawing_triangle_strip.exe	645271130752c17e
