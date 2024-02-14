@@ -1,4 +1,4 @@
-# Install script for directory: D:/mycode/opengl/drawing-triangle-fan
+# Install script for directory: D:/mycode/opengl/drawing-basic-shapes/drawing-triangle-fan
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/mycode/opengl/drawing-triangle-fan/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/mycode/opengl/drawing-basic-shapes/drawing-triangle-fan/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

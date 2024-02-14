@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "drawing_triangle_fan",
+					"name" : "drawing_circle",
 					"targetIndexes" : 
 					[
 						0
@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "drawing_triangle_fan::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-drawing_triangle_fan-Debug-0f3444fd23c75740cd1a.json",
-					"name" : "drawing_triangle_fan",
+					"id" : "drawing_circle::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-drawing_circle-Debug-07903ca20b39be2c49c0.json",
+					"name" : "drawing_circle",
 					"projectIndex" : 0
 				}
 			]
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/mycode/opengl/drawing-triangle-fan/cmake-build-debug",
-		"source" : "D:/mycode/opengl/drawing-triangle-fan"
+		"build" : "D:/mycode/opengl/drawing-circle/cmake-build-debug",
+		"source" : "D:/mycode/opengl/drawing-circle"
 	},
 	"version" : 
 	{

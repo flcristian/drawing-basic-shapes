@@ -39,7 +39,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "d:/mycode/opengl/drawing-triangle-fan/cmake-build-debug"
+			"value" : "d:/mycode/opengl/drawing-circle/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -479,7 +479,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/mycode/opengl/drawing-triangle-fan/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "D:/mycode/opengl/drawing-circle/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -539,7 +539,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "D:/mycode/opengl/drawing-triangle-fan"
+			"value" : "D:/mycode/opengl/drawing-circle"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -551,7 +551,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/drawing_triangle_fan"
+			"value" : "C:/Program Files (x86)/drawing_circle"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -735,7 +735,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "drawing_triangle_fan"
+			"value" : "drawing_circle"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1102,7 +1102,7 @@
 			"value" : "C:/opengl/glfw/lib-vc2022/glfw3.lib"
 		},
 		{
-			"name" : "drawing_triangle_fan_BINARY_DIR",
+			"name" : "drawing_circle_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1111,10 +1111,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/mycode/opengl/drawing-triangle-fan/cmake-build-debug"
+			"value" : "D:/mycode/opengl/drawing-circle/cmake-build-debug"
 		},
 		{
-			"name" : "drawing_triangle_fan_IS_TOP_LEVEL",
+			"name" : "drawing_circle_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1126,7 +1126,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "drawing_triangle_fan_SOURCE_DIR",
+			"name" : "drawing_circle_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1135,7 +1135,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "D:/mycode/opengl/drawing-triangle-fan"
+			"value" : "D:/mycode/opengl/drawing-circle"
 		}
 	],
 	"kind" : "cache",

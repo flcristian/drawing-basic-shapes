@@ -1,3 +1,3 @@
-D:/mycode/opengl/drawing-triangle-fan/cmake-build-debug/CMakeFiles/drawing_triangle_fan.dir
-D:/mycode/opengl/drawing-triangle-fan/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/mycode/opengl/drawing-triangle-fan/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/mycode/opengl/drawing-basic-shapes/drawing-triangle-fan/cmake-build-debug/CMakeFiles/drawing_triangle_fan.dir
+D:/mycode/opengl/drawing-basic-shapes/drawing-triangle-fan/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/mycode/opengl/drawing-basic-shapes/drawing-triangle-fan/cmake-build-debug/CMakeFiles/rebuild_cache.dir

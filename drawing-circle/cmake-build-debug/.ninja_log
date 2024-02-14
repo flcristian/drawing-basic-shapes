@@ -1,0 +1,9 @@
+# ninja log v5
+1	533	7296233483576784	CMakeFiles/drawing_circle.dir/main.cpp.obj	7c0f95e57aac4a85
+533	715	7296233485294563	drawing_circle.exe	48972a2a84a076f5
+2	675	7296244938333557	CMakeFiles/drawing_circle.dir/main.cpp.obj	7c0f95e57aac4a85
+675	819	7296244939544655	drawing_circle.exe	48972a2a84a076f5
+5	557	7296245063121040	CMakeFiles/drawing_circle.dir/main.cpp.obj	7c0f95e57aac4a85
+558	652	7296245063875012	drawing_circle.exe	48972a2a84a076f5
+4	672	7296245274693047	CMakeFiles/drawing_circle.dir/main.cpp.obj	7c0f95e57aac4a85
+672	756	7296245275353651	drawing_circle.exe	48972a2a84a076f5

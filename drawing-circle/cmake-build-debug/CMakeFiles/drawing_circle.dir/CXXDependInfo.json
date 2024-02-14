@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "MSVC",
+	"compiler-id" : "MSVC",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "D:/mycode/opengl/drawing-circle/cmake-build-debug",
+	"dir-cur-src" : "D:/mycode/opengl/drawing-circle",
+	"dir-top-bld" : "D:/mycode/opengl/drawing-circle/cmake-build-debug",
+	"dir-top-src" : "D:/mycode/opengl/drawing-circle",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "D:/mycode/opengl/drawing-circle/cmake-build-debug/CMakeFiles/drawing_circle.dir"
+}

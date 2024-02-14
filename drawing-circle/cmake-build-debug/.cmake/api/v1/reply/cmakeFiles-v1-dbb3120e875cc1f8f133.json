@@ -144,8 +144,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "D:/mycode/opengl/drawing-triangle-fan/cmake-build-debug",
-		"source" : "D:/mycode/opengl/drawing-triangle-fan"
+		"build" : "D:/mycode/opengl/drawing-circle/cmake-build-debug",
+		"source" : "D:/mycode/opengl/drawing-circle"
 	},
 	"version" : 
 	{
